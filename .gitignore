@@ -1,0 +1,29 @@
+# PHP
+*.log
+*.tmp
+*.cache
+
+# Database config (if contains sensitive info)
+# ocrs/includes/config.php
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Uploaded files (if they contain user data)
+# ocrs/admin/productimages/
+
+# Temporary files
+temp/
+tmp/
